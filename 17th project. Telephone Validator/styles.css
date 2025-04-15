@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-color: rgb(27, 27, 50);
+    text-align: center;
+    color: #fff;
+  }
+
+  input {
+    border: 1px solid rgb(59, 59, 79);
+    margin-top: 90px;
+  }
+  button{
+    margin: 10px
+  }
+
