@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Time Counter</title>
+    <style>
+  #char-count.red {
+    color: red;
+  }
+</style>
+
+</head>
+
+<body>
+    
+<textarea id="text-input" maxlength="50"></textarea>
+<p id="char-count">Character Count: 0/50</p>
+
+<script>
+  const textarea = document.getElementById("text-input");
+  const charCount = document.getElementById("char-count");
+
+  textarea.addEventListener("input", () => {
+    const count = textarea.value.length;
+
+    charCount.textContent = `Character Count: ${count}/50`;
+
+  
+    if (count >= 50) {
+      charCount.classList.add("red");
+      textarea.value = textarea.value.slice(0, 50); 
+    } else {
+      charCount.classList.remove("red");
+    }
+  });
+</script>
+
+</body>
+
+
+</html>
