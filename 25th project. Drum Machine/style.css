@@ -1,0 +1,52 @@
+body {
+    background-color: #1e1e1e;
+    color: #fff;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  #drum-machine {
+    background: #2e2e2e;
+    padding: 2rem;
+    border-radius: 16px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+    text-align: center;
+  }
+  
+  #pad-bank {
+    display: grid;
+    grid-template-columns: repeat(3, 80px);
+    gap: 1rem;
+    justify-content: center;
+    margin-bottom: 1rem;
+  }
+  
+  .drum-pad {
+    background-color: #444;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    transition: 0.2s;
+    user-select: none;
+  }
+  
+  .drum-pad:hover {
+    background-color: #666;
+  }
+  
+  .drum-pad:active {
+    background-color: #999;
+  }
+  
+  #display {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    color: #00ffcc;
+  }
+  
