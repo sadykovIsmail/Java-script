@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Plant Catalog</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>✨ Plant Catalog Organizer ✨</h1>
+  </header>
+
+  <main>
+    <section class="catalog-display">
+      <h2>Catalog</h2>
+      <pre id="catalogOutput"></pre>
+    </section>
+
+    <section class="plant-actions">
+      <h2>Sell Plants</h2>
+      <form id="sellForm">
+        <select id="plantSelect"></select>
+        <select id="sizeSelect">
+          <option value="small">Small</option>
+          <option value="medium">Medium</option>
+          <option value="large">Large</option>
+        </select>
+        <input type="number" id="potsNumber" placeholder="Number of pots" min="1">
+        <button type="submit">Sell</button>
+      </form>
+      <p id="sellMessage"></p>
+    </section>
+
+    <section class="plant-removal">
+      <h2>Remove Plant</h2>
+      <form id="removeForm">
+        <select id="removePlantSelect"></select>
+        <button type="submit">Remove</button>
+      </form>
+      <p id="removeMessage"></p>
+    </section>
+
+    <section class="unique-plants">
+      <h2>Unique Plant Types</h2>
+      <ul id="plantsSet"></ul>
+    </section>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
