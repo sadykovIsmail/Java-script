@@ -78,4 +78,12 @@ topic_list.topics.forEach(topic => {
 });
 
 }
-
+const fetchData = async () => {
+  try {
+    const response = await fetch(forumLatest); // correct URL
+    const data = await response.json(); // parse JSON
+    showLatestPosts(data); // pass data to function
+  } catch (error) {
+    console.log(error); // log any error
+  }
+};
