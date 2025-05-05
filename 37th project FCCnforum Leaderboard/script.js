@@ -31,20 +31,20 @@ const timeAgo = (arg) => {
 }
 
 const viewCount = (views) => {
- return views >= 1000 ? `${Math.floor(views/1000)}k` : views
+return views >= 1000 ? `${Math.floor(views/1000)}k` : views
 }
 
 const forumCategory = (id) => {
   const { category, className } = allCategories[id] || { category: 'General', className: 'general' };
- return `<a class="category ${className}" href="${forumCategoryUrl}${className}/${id}">${category}</a>`;
+return `<a class="category ${className}" href="${forumCategoryUrl}${className}/${id}">${category}</a>`;
 
 }
 const avatars = (posters, users) => {
- const answer = []
+const answer = []
 
 
 
-   posters.forEach((poster) => {
+  posters.forEach((poster) => {
      users.find((value) => {
        
        if(value.id == poster.user_id){
@@ -56,10 +56,10 @@ const avatars = (posters, users) => {
        }
      })
   
-   })
+  })
 
   return answer.join("")
- 
+
 
 
 
