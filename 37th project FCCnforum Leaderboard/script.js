@@ -31,36 +31,51 @@ const timeAgo = (arg) => {
 }
 
 const viewCount = (views) => {
-return views >= 1000 ? `${Math.floor(views/1000)}k` : views
+ return views >= 1000 ? `${Math.floor(views/1000)}k` : views
 }
 
 const forumCategory = (id) => {
   const { category, className } = allCategories[id] || { category: 'General', className: 'general' };
-return `<a class="category ${className}" href="${forumCategoryUrl}${className}/${id}">${category}</a>`;
+ return `<a class="category ${className}" href="${forumCategoryUrl}${className}/${id}">${category}</a>`;
 
 }
 const avatars = (posters, users) => {
-const answer = []
+ const answer = []
 
 
 
-  posters.forEach((poster) => {
-  users.find((value) => {
-    
-      if(value.id == poster.user_id){
-        
-answer.push(
+   posters.forEach((poster) => {
+     users.find((value) => {
+       
+       if(value.id == poster.user_id){
+         
+ answer.push(
   `<img src="${avatarUrl + value.avatar_template.replace('{size}', '30')}" alt="${value.name}">`
-);
+ );
 
-      }
-    })
+       }
+     })
   
-  })
+   })
 
   return answer.join("")
-
+ 
 
 
 
 }
+const showLatestPosts = (obj) => {
+const {users, topic_list} = obj
+topic_list.topics.forEach(topic => {
+  const title = topic.title;
+  const views = topic.views;
+  const replies = topic.posts_count;
+  const slug = topic.slug;
+  const id = topic.id;
+  const category = forumCategory(topic.category_id);
+  const bumpTime = timeAgo(topic.bumped_at);
+  const avatarHTML = avatars(topic.posters, users);
+});
+
+}
+
