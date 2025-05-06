@@ -2,30 +2,43 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Weather App</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css" />
   </head>
 
   <body>
+    <div class="weather-container">
+      <h1>Weather App</h1>
 
-<button id="get-forecast"></button>
-<select name="" id=""><option value=""></option>
-  <option value="Paris">Paris</option>
-  <option value="London">London</option>
-  <option value="Tokyo">Tokyo</option>
-  <option value="Los Angeles">Los Angeles</option>
-  <option value="Chicago">Chicago</option>
-  <option value="New York">New York</option></select>
+      <div class="weather-info" id="weather-info">
+        <img id="weather-icon" src="" alt="Weather Icon" />
+        <ul class="weather-details">
+          <li>Main: <span id="weather-main">N/A</span></li>
+          <li>Temp: <span id="main-temperature">N/A</span>℃</li>
+          <li>Feels like: <span id="feels-like">N/A</span>℃</li>
+          <li>Humidity: <span id="humidity">N/A</span>%</li>
+          <li>Wind: <span id="wind">N/A</span> m/s</li>
+          <li>Gust: <span id="wind-gust">N/A</span> m/s</li>
+          <li>Location: <span id="location">N/A</span></li>
+        </ul>
+      </div>
 
-<img src="" alt="" id="weather-icon">
-<p id="main-temperature"></p>
-<p id="feels-like"></p>
-<p id="humidity"></p>
-<p id="wind"></p>
-<p id="wind-gust"></p>
-<p id="weather-main"></p>
-<p id="location "></p>
+      <div class="controls">
+        <label for="city">Weather for:</label>
+        <select id="city">
+          <option value=""></option>
+          <option value="new york">New York</option>
+          <option value="los angeles">Los Angeles</option>
+          <option value="chicago">Chicago</option>
+          <option value="paris">Paris</option>
+          <option value="tokyo">Tokyo</option>
+          <option value="london">London</option>
+        </select>
+        <button id="get-forecast">Get Forecast</button>
+      </div>
+    </div>
 
-    <script src="./script.js"></script>
+    <script src="script.js"></script>
   </body>
 </html>
