@@ -1,16 +1,29 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cash Register</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-    <input type="text" id="cash">
-    <p id="change-due"></p>
-    <button id="purchase-btn"></button>
-    
-    <script src="./script.js"></script>
+  <div class="container">
+    <header>
+      <h1>Cash Register</h1>
+      <p>Item price: <strong>$<span id="price-display">1.87</span></strong></p>
+    </header>
+
+    <section class="payment">
+      <input type="number" id="cash" placeholder="Enter amount paid" step="0.01" />
+      <button id="purchase-btn">Purchase</button>
+    </section>
+
+    <section id="change-section">
+      <h2>Change Due</h2>
+      <div id="change-due"></div>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
 </body>
 </html>

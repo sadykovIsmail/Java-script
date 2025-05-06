@@ -30,7 +30,7 @@ const DENOMS = [
   { name: 'PENNY',        val: 0.01}
 ];
 btn.addEventListener('click', () => {
-  changeDiv.textContent = '';          
+  changeDiv.textContent = '';
   const paid = parseFloat(cashInput.value);
 
   if (isNaN(paid) || paid < price) {
