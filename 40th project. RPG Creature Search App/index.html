@@ -1,25 +1,35 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RPG Creature Search App</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-    <input type="text" id="search-input" required>
-    <button id="search-button"></button>
-    <p id="creature-name"></p>
-    <p id="creature-id"></p>
-    <p id="weight"></p>
-    <p id="height"></p>
-    <p id="types"></p>
-    <p id="hp"></p>
-    <p id="attack"></p>
-    <p id="defense"></p>
-    <p id="special-attack"></p>
-    <p id="special-defense"></p>
-    <p id="speed"></p>
-    <script src="./script.js"></script>
+  <header>
+    <h1>RPG Creature Search</h1>
+    <p>All creature data is retrieved from freeCodeCamp's <a href="https://rpg-creature-api.freecodecamp.rocks/">RPG Creature API</a>.</p>
+    <p>Enter a valid creature name or ID to load its stats.</p>
+  </header>
+  <main>
+    <input type="text" id="search-input" placeholder="Creature name or ID" required/>
+    <button id="search-button">Search</button>
+    <div id="creature-stats">
+      <span id="creature-name" class="stat"></span>
+      <span id="creature-id" class="stat"></span>
+      <span id="weight" class="stat"></span>
+      <span id="height" class="stat"></span>
+      <span id="types" class="stat"></span>
+      <span id="hp" class="stat"></span>
+      <span id="attack" class="stat"></span>
+      <span id="defense" class="stat"></span>
+      <span id="special-attack" class="stat"></span>
+      <span id="special-defense" class="stat"></span>
+      <span id="speed" class="stat"></span>
+    </div>
+  </main>
+  <!-- Link to external script file -->
+  <script src="script.js"></script>
 </body>
 </html>
