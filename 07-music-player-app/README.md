@@ -15,7 +15,7 @@ A lightweight web app to play your favorite tracks right in the browser. Support
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<https://your-username.github.io/music-player/>
+<https://sadykovismail.github.io/Java-script/07-music-player-app/>
 
 ![Screenshot of the Music Player app](./screenshot.png)
 
