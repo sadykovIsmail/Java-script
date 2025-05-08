@@ -13,7 +13,7 @@ A simple web app to convert decimal numbers into their binary equivalents. Enter
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<hfile:///C:/Users/sadyk/OneDrive/Рабочий%20стол/Java-script/12-decimal-to-binary-converter/index.html>
+<https://sadykovismail.github.io/Java-script/12-decimal-to-binary-converter/>
 
 ![Screenshot of the Decimal to Binary Converter app](./screenshot.png)
 
