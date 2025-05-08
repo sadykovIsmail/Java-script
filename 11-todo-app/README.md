@@ -14,7 +14,7 @@ A clean, responsive web application to manage your daily tasks. Add, complete, e
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<https://github.com/sadykovIsmail/Java-script/tree/main/11-todo-app/>
+<https://sadykovismail.github.io/Java-script/11-todo-app/>
 
 ![Screenshot of the Todo App](./screenshot.png)
 
