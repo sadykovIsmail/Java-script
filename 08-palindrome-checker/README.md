@@ -10,7 +10,7 @@ A simple web-based tool to check if a given string is a palindrome. Enter text a
 - **Inline Styling & Logic**: All HTML, CSS, and JavaScript combined in a single `index.html` for easy portability  
 
 ## Demo
-
+https://sadykovismail.github.io/Java-script/08-palindrome-checker/
 Open `index.html` in your browser to try it out.
 
 ![Screenshot of the Palindrome Checker](./screenshot.png)
