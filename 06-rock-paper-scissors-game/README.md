@@ -13,7 +13,7 @@ A classic hand game implemented as a web app. Play against the computer and see 
 ## Demo
 
 Open `index.html` in your browser or visit the live demo:  
-<https://your-username.github.io/rock-paper-scissors/>
+<https://sadykovismail.github.io/Java-script/06-rock-paper-scissors-game/>
 
 ![Screenshot of the Rock Paper Scissors app](./screenshot.png)
 
