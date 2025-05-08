@@ -28,7 +28,7 @@ _No build tools or dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/07-music-player-app
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Click on a song title in the Track List to load it.
 
 Use the Play/Pause button to start or stop playback.
@@ -41,14 +41,14 @@ Adjust Volume with the slider.
 
 To reset playback, refresh the page or select a different track.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for audio API and UI logic
 
-File Structure
+## File Structure
 bash
 music-player/
 ├── index.html           # Main HTML page
@@ -57,13 +57,16 @@ music-player/
 ├── js/
 │   └── script.js        # Core logic and audio controls
 └── README.md            # Project documentation
-Contributing
-Fork the repo
+## Contributing
+1) Fork the repo
 
-Create a new branch (git checkout -b feature/<your-branch-name>)
+2) Create a new branch:
+git checkout -b feature/<your-branch-name>
 
-Commit your changes (git commit -m "Add awesome feature")
+3) Commit your changes:
+git commit -m "Add awesome feature"
 
-Push to the branch (git push -u origin feature/<your-branch-name>)
+4) Push to the branch:
+git push -u origin feature/<your-branch-name>
 
-Open a Pull Request
+5) Open a Pull Request

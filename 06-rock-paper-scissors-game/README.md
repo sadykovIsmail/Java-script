@@ -26,7 +26,7 @@ _No build or dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/06-rock-paper-scissors-game
 Open index.html in any modern browser.
 
-Usage
+## Usage
 Click one of the three buttons: Rock, Paper, or Scissors.
 
 Watch the computer’s choice appear.
@@ -35,14 +35,14 @@ See the result message and updated score.
 
 To start over, click Reset.
 
-Tech Stack
+## Tech Stack
 HTML5 for markup
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for game logic and DOM manipulation
 
-File Structure
+## File Structure
 ``bash
 rock-paper-scissors/
 ├── index.html         # Main page
@@ -51,13 +51,16 @@ rock-paper-scissors/
 ├── js/
 │   └── script.js        # Game logic
 └── README.md          # Project documentation
-Contributing
-Fork the repo
+## Contributing
+1) Fork the repo
 
-Create a new branch (git checkout -b feature/<your-branch-name>)
+2) Create a new branch:
+git checkout -b feature/<your-branch-name>
 
-Commit your changes (git commit -m "Add awesome feature")
+3) Commit your changes:
+git commit -m "Add awesome feature"
 
-Push to the branch (git push -u origin feature/<your-branch-name>)
+4) Push to the branch:
+git push -u origin feature/<your-branch-name>
 
-Open a Pull Request
+5) Open a Pull Request

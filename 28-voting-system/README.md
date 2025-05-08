@@ -27,7 +27,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/28-voting-system
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Admin Mode:
 
 Click Add Option, enter option text, and click Save to create voting choices.
@@ -44,14 +44,14 @@ See the live vote counts next to each option.
 
 To start fresh or change options, reset the poll and add new choices.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for vote logic, UI updates, and localStorage management
 
-File Structure
+## File Structure
 
 voting-system/
 ├── index.html           # Main HTML page
@@ -61,7 +61,7 @@ voting-system/
 │   └── script.js           # Voting logic and UI handlers
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

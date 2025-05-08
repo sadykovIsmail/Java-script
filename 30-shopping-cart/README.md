@@ -29,7 +29,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/30-shopping-cart
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Browse the Product Listing on load.
 
 Click Add to Cart on any product you wish to purchase.
@@ -44,14 +44,14 @@ View the Total at the bottom.
 
 Refresh or revisit the page to see your cart preserved.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for product rendering, cart logic, and localStorage integration
 
-File Structure
+## File Structure
 
 shopping-cart/
 ├── index.html           # Main HTML page
@@ -62,7 +62,7 @@ shopping-cart/
 │   └── script.js           # Cart logic and UI handlers
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

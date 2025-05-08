@@ -28,7 +28,7 @@ _No dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/32-bank-account-management-program
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Create Account:
 
 Fill in Name and Initial Deposit, then click Create Account.
@@ -49,14 +49,14 @@ Balances update in real time.
 
 Click Show History next to each account to view its transactions.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling
 
 Vanilla JavaScript (ES6+) for logic and localStorage integration
 
-File Structure
+## File Structure
 
 32-bank-account-management-program/
 ├── index.html            # Main landing page
@@ -66,7 +66,7 @@ File Structure
 │   └── app.js            # Core banking logic & storage
 └── README.md             # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

@@ -28,7 +28,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/29-bookmark-manager-app
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Fill out the Add Bookmark form with the URL, Title, and Tags (comma-separated).
 
 Click Add to save the bookmark.
@@ -41,17 +41,15 @@ Click the 🗑️ icon to delete a bookmark.
 
 Click any bookmark title to open it in a new tab.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for application logic and localStorage integration
 
-File Structure
-pgsql
-Копировать
-Редактировать
+## File Structure
+
 bookmark-manager-app/
 ├── index.html             # Main HTML page
 ├── css/
@@ -60,7 +58,7 @@ bookmark-manager-app/
 │   └── script.js             # Core logic: add/edit/delete/search/filter
 └── README.md              # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

@@ -24,25 +24,25 @@ _No build or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/21-real-time-counter
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 On load, the counter starts at 0 and increments every second.
 
 Click the Reset button at any time to set the counter back to 0.
 
 To restart counting from zero on page reload, simply refresh the page.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 (inline) for basic styling
 
 Vanilla JavaScript (inline in index.html) using setInterval for real-time updates
 
-File Structure
+## File Structure
 
 real-time-counter/
 └── index.html    # All markup, styling, and script in one file
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

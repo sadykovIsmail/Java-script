@@ -27,7 +27,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/14-number-sorter
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Enter your list of numbers in the Number List field (e.g. 5, 2, 9, 1, 7).
 
 Click Sort Ascending or Sort Descending.
@@ -36,14 +36,14 @@ View the sorted result in the Output area.
 
 Click Clear to reset the fields.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for parsing, sorting logic, and DOM updates
 
-File Structure
+## File Structure
 number-sorter/
 ├── index.html           # Main HTML page
 ├── css/
@@ -52,7 +52,7 @@ number-sorter/
 │   └── script.js           # Sorting logic and UI handlers
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

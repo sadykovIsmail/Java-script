@@ -29,7 +29,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/37-fcc-forum-leaderboard
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 On load, you’ll see a Thread List showing all existing discussions.
 
 Click New Thread to open the thread creation form:
@@ -46,14 +46,14 @@ Hover over your own posts or threads to reveal Edit (✏️) and Delete (🗑️
 
 All changes are auto-saved in your browser—no server needed.
 
-Tech Stack
+## Tech Stack
 HTML5 for semantic markup
 
 CSS3 (Flexbox & Grid) for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for forum logic, event handling, and localStorage integration
 
-File Structure
+## File Structure
 
 fcc-forum/
 ├── index.html             # Main HTML page with thread list & detail templates
@@ -64,7 +64,7 @@ fcc-forum/
 |
 └── README.md              # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

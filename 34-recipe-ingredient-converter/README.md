@@ -27,7 +27,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/34-recipe-ingredient-converter
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 In the Amount field, type the numeric quantity (e.g. 1.5).
 
 Select the From unit and To unit from the dropdowns.
@@ -45,7 +45,7 @@ CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for conversion logic, including density lookup and unit math
 
-File Structure
+## File Structure
 
 recipe-ingredient-converter/
 ├── index.html                # Main HTML page with form and results
@@ -56,7 +56,7 @@ recipe-ingredient-converter/
 |
 └── README.md                 # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

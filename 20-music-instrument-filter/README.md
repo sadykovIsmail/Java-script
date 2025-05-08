@@ -26,7 +26,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/20-music-instrument-filter
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Use the Search input at the top to type any part of an instrument’s name.
 
 Select one or more Category checkboxes to narrow results.
@@ -37,14 +37,14 @@ Click on a card to view more details (if implemented).
 
 To clear filters, empty the search field and uncheck all categories.
 
-Tech Stack
+## Tech Stack
 HTML5 for markup
 
 CSS3 (Flexbox & Grid) for styling and layout
 
 Vanilla JavaScript (ES6+) for filtering logic and DOM updates
 
-File Structure
+## File Structure
 
 music-instrument-filter/
 ├── index.html             # Main HTML page
@@ -55,7 +55,7 @@ music-instrument-filter/
 ├
 └── README.md              # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

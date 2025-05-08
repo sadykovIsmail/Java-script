@@ -27,7 +27,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/33-permute-string-app
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 In the Input String field, type or paste your text (e.g. abc).
 
 Click the Permute button (or press Enter).
@@ -38,14 +38,14 @@ Click Copy All to copy every permutation to your clipboard.
 
 Click Clear to reset the input and remove results.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for permutation algorithm and DOM updates
 
-File Structure
+## File Structure
 
 permute-string/
 ├── index.html           # Main HTML page
@@ -56,7 +56,7 @@ permute-string/
 |
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

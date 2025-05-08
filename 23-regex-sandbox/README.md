@@ -29,7 +29,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/23-regex-sandbox
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 In the Pattern field, type your regex (e.g. \b\w+\b).
 
 Check or uncheck the Flags you want (e.g. g for global).
@@ -42,14 +42,14 @@ Scroll down to see a list of all matches and any capture groups.
 
 Click Clear Pattern or Clear Text to reset fields.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for regex evaluation, highlighting, and DOM updates
 
-File Structure
+## File Structure
 
 regex-sandbox/
 ├── index.html           # Main HTML page
@@ -59,7 +59,7 @@ regex-sandbox/
 │   └── script.js           # Regex logic and UI handlers
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

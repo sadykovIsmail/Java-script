@@ -28,7 +28,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/26-book-organizer
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Fill out the Add Book form with the book’s Title, Author, Genre, and Year.
 
 Click Add to save the book to your collection.
@@ -43,14 +43,14 @@ Click the 🗑️ icon to remove a book.
 
 Toggle the Read checkbox on each entry to mark it as read or unread.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for application logic and localStorage integration
 
-File Structure
+## File Structure
 
 book-organizer/
 ├── index.html           # Main HTML page
@@ -61,7 +61,7 @@ book-organizer/
 |
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

@@ -27,7 +27,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/31-project-idea
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Click the New Idea button to generate a project suggestion.
 
 Use the Category dropdown to limit ideas to a specific domain.
@@ -38,7 +38,7 @@ Click the ⭐ icon to add the idea to your Favorites list.
 
 View your favorites in the sidebar and click Reset Favorites to clear.
 
-Tech Stack
+## Tech Stack
 HTML5 for markup
 
 CSS3 for styling and responsive layout
@@ -47,7 +47,7 @@ Vanilla JavaScript (ES6+) for idea generation logic, filtering, and storage
 
 localStorage for persisting favorite ideas
 
-File Structure
+## File Structure
 
 project-idea-generator/
 ├── index.html             # Main HTML page
@@ -59,7 +59,7 @@ project-idea-generator/
 └── README.md              # Project documentation
 
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

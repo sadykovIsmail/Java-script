@@ -27,7 +27,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/11-todo-app
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Type your task into the New Task input field.
 
 Click Add (or press Enter) to add it to your list.
@@ -40,14 +40,14 @@ Click the 🗑️ icon to delete a task.
 
 Use Clear All to remove every task at once.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive design
 
 Vanilla JavaScript (ES6+) for task management and localStorage integration
 
-File Structure
+## File Structure
 
 todo-app/
 ├── index.html           # Main HTML page
@@ -57,7 +57,7 @@ todo-app/
 │   └── script.js           # Task logic and storage
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

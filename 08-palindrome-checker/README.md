@@ -24,7 +24,7 @@ _No build or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/08-palindrome-checker
 Open index.html in any modern browser.
 
-Usage
+## Usage
 Type or paste your text into the input field.
 
 Click the Check button.
@@ -41,7 +41,8 @@ Vanilla JavaScript embedded in index.html for palindrome logic
 File Structure
 palindrome-checker/
 └── index.html    # All markup, styling, and script in one file
-Contributing
+
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

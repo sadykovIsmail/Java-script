@@ -26,7 +26,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/09-date-formatter
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 In the Date Input field, type or paste your date.
 
 Select one of the Preset Formats from the dropdown (or leave on default).
@@ -42,7 +42,7 @@ CSS3 for styling and responsive design
 
 Vanilla JavaScript (ES6+) for date parsing and formatting
 
-File Structure
+## File Structure
 date-formatter/
 ├── index.html           # Main HTML page with inline form
 ├── css/
@@ -50,7 +50,7 @@ date-formatter/
 ├── js/
 │   └── script.js           # Parsing & formatting logic
 └── README.md            # Project documentation
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

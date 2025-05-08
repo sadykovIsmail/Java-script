@@ -26,7 +26,7 @@ _No dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/05-calorie-counter
 Open index.html in any modern browser.
 
-Usage
+## Usage
 In the Food field, type the name of your meal or snack.
 
 In the Calories field, enter the energy value (number only).
@@ -39,14 +39,14 @@ To remove an entry, click the trash icon.
 
 Your total calories for the day will always appear at the bottom.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling
 
 Vanilla JavaScript (ES6+) for logic and localStorage integration
 
-File Structure
+## File Structure
 ``bash
 calorie-counter/
 ├── index.html      # Main landing page
@@ -55,13 +55,16 @@ calorie-counter/
 ├── js/
 │   └── script.js      # Core logic
 └── README.md       # Project documentation
-Contributing
-Fork the repo
+## Contributing
+1) Fork the repo
 
-Create a new branch (git checkout -b feature/<your-branch-name>)
+2) Create a new branch:
+git checkout -b feature/<your-branch-name>
 
+3) Commit your changes:
 git commit -m "Add awesome feature"
 
-Push to the branch (git push -u origin feature/<your-branch-name>)
+4) Push to the branch:
+git push -u origin feature/<your-branch-name>
 
-Open a Pull Request
+5) Open a Pull Request

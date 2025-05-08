@@ -26,7 +26,7 @@ _No build tools or dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/10-football-team-cards
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Browse the grid of team cards on load.
 
 Use the Search input to filter teams by name.
@@ -37,14 +37,14 @@ Click any card to flip it and view more details.
 
 Refresh the page to reset filters and sorting.
 
-Tech Stack
+## Tech Stack
 HTML5 for markup
 
 CSS3 (Flexbox & Grid) for styling and layout
 
 Vanilla JavaScript (ES6+) for card rendering, search, sort, and flip interactions
 
-File Structure
+## File Structure
 
 football-team-cards/
 ├── index.html             # Main HTML page
@@ -55,7 +55,7 @@ football-team-cards/
 │
 └── README.md              # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

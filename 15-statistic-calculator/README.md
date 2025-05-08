@@ -31,7 +31,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/15-statistic-calculator
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 In the Data Input field, type your numbers (e.g. 4, 8, 15, 16, 23, 42).
 
 Click Calculate (or press Enter).
@@ -52,16 +52,15 @@ Standard Deviation
 
 Click Clear to reset the form and results.
 
-Tech Stack
+## Tech Stack
 HTML5 for markup
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for calculation logic and DOM manipulation
 
-File Structure
-bash
-Копировать код
+## File Structure
+
 statistic-calculator/
 ├── index.html           # Main HTML page
 ├── css/
@@ -70,7 +69,7 @@ statistic-calculator/
 │   └── script.js           # Calculation logic and UI handlers
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

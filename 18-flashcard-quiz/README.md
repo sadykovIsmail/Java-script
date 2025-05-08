@@ -29,7 +29,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/18-flashcard-quiz
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Add Cards: Enter a question in the Front field and the answer in the Back field, then click Add Card.
 
 Start Quiz: Click Quiz Mode to begin reviewing cards.
@@ -44,14 +44,14 @@ Categories: Use the dropdown to filter cards by category.
 
 Reset: Click Clear All Cards or Reset Scores to start over.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for card management, quiz logic, and localStorage integration
 
-File Structure
+## File Structure
 flash-card-quiz/
 ├── index.html            # Main HTML page
 ├── css/
@@ -60,7 +60,7 @@ flash-card-quiz/
 │   └── script.js            # Flashcard & quiz logic
 └── README.md             # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

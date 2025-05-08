@@ -27,7 +27,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/13-spam-filter
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Paste your message into the Message textarea.
 
 Click the Analyze button (or press Enter).
@@ -38,14 +38,14 @@ See common spam keywords highlighted in your text.
 
 Click Clear to reset the form and results.
 
-Tech Stack
+## Tech Stack
 HTML5 for markup
 
 CSS3 for styling and responsive design
 
 Vanilla JavaScript (ES6+) for classification logic and DOM updates
 
-File Structure
+## File Structure
 
 spam-filter/
 ├── index.html           # Main HTML page
@@ -55,7 +55,7 @@ spam-filter/
 │   └── script.js           # Spam detection logic
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

@@ -26,7 +26,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/22-markdown-to-html-converter
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 In the Markdown Input area, type or paste your Markdown text.
 
 As you type, the HTML Preview area on the right updates automatically.
@@ -35,7 +35,7 @@ Click Copy HTML to copy the rendered HTML to your clipboard.
 
 Click Clear to reset both the input and preview fields.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
@@ -44,7 +44,7 @@ Vanilla JavaScript (ES6+) for parsing Markdown and updating the DOM
 
 marked.js (optional) for robust Markdown parsing
 
-File Structure
+## File Structure
 
 markdown-to-html-converter/
 ├── index.html                  # Main HTML page with input & preview areas
@@ -55,7 +55,7 @@ markdown-to-html-converter/
 |
 └── README.md                   # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

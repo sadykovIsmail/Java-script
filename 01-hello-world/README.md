@@ -30,7 +30,7 @@ hello-world/
 
 ##  Preview
 
-![screenshot](screenshot.png) *(Add a screenshot if available)*
+![screenshot](screenshot.png)
 
 ## 📄 License
 

@@ -28,7 +28,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/24-customer-complaint-form
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Fill in Name, Email, Phone Number, and Complaint Message.
 
 As you type, invalid input fields will be highlighted with red borders and error text.
@@ -39,14 +39,14 @@ Click Submit to see a success alert if all fields are valid.
 
 Click Reset to clear all fields and error messages.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for regex-based validation and DOM manipulation
 
-File Structure
+## File Structure
 
 customer-complaint-form/
 ├── index.html           # Main HTML page with embedded form
@@ -56,7 +56,7 @@ customer-complaint-form/
 │   └── app.js           # Validation logic using regex
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

@@ -27,7 +27,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/36-fcc-authors-page
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 On load, the page fetches author data and displays cards in a grid.
 
 Use the Search input at the top to filter authors by name or username.
@@ -36,7 +36,7 @@ Click an author’s card or “View Profile” button to open their FreeCodeCamp
 
 If data fails to load, an error message will appear—refresh to retry.
 
-Tech Stack
+## Tech Stack
 HTML5 for markup
 
 CSS3 (Flexbox & Grid) for styling and responsive layout
@@ -45,7 +45,7 @@ Vanilla JavaScript (ES6+) for API fetching, search/filter logic, and DOM manipul
 
 Fetch API for network requests
 
-File Structure
+## File Structure
 
 fcc-authors-page/
 ├── index.html            # Main HTML page
@@ -55,7 +55,7 @@ fcc-authors-page/
 │   └── script.js            # Fetch & filter logic
 └── README.md             # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

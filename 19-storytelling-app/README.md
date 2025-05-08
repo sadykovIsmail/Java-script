@@ -27,7 +27,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/19-storytelling-app
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 On page load, the first slide of the story appears.
 
 Read the story text and view any accompanying images.
@@ -38,14 +38,14 @@ Your current position is auto‐saved; refresh or revisit later to continue.
 
 To restart, click Restart Story or clear browser storage.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for loading story data, handling navigation & saving progress
 
-File Structure
+## File Structure
 storytelling-app/
 ├── index.html             # Main HTML page
 ├── css/
@@ -55,7 +55,7 @@ storytelling-app/
 │
 └── README.md              # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

@@ -27,7 +27,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/38-weather-app
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 In the City input field, type the city name (e.g. London or New York).
 
 Click Get Weather or press Enter.
@@ -38,7 +38,7 @@ Scroll to the Forecast section to see the next 5 days’ temps and icons.
 
 If an error occurs, an alert or error panel will appear—try a different city or check your connection.
 
-Tech Stack
+## Tech Stack
 HTML5 for markup
 
 CSS3 for styling and responsive layout
@@ -47,7 +47,7 @@ Vanilla JavaScript (ES6+) for Fetch API calls and DOM updates
 
 FreeCodeCamp Weather Proxy (https://weather-proxy.freecodecamp.rocks/api/city/) for data
 
-File Structure
+## File Structure
 
 weather-app/
 ├── index.html            # Main HTML page with form & display panels
@@ -58,7 +58,7 @@ weather-app/
 |
 └── README.md             # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

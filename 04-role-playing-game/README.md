@@ -9,12 +9,30 @@ A simple JavaScript-based role-playing game (RPG) engine designed to practice ob
 - Battle loop with random damage and outcomes
 - Clean, modular code for easy extension
 
+## Demo
+
+Open `index.html` in your browser or visit the live demo:  
+<https://sadykovismail.github.io/Java-script/04-role-playing-game/>
+
+![Screenshot of the Calorie Counter app](./screenshot.png)
+
+
+
 ## What I Learned
 
 - Using constructors or classes to create game entities
 - Handling game state with loops and conditionals
 - Applying randomness with `Math.random()`
 - Structuring code for reusability
+
+## Installation
+
+_No dependencies required!_
+
+1. Clone this repo:  
+   ```bash
+   git clone https://github.com/sadykovIsmail/Java-script/tree/main/04-role-playing-game/
+Open index.html in any modern browser.
 
 ## How to Use
 
@@ -24,11 +42,33 @@ A simple JavaScript-based role-playing game (RPG) engine designed to practice ob
 4. Follow the combat log printed to the console.
 5. Customize characters, stats, or add new enemies to expand the game.
 
-## Sample Output
+## Tech Stack
+HTML5 for structure
 
-```bash
-Player attacks Goblin for 7 damage.
-Goblin attacks Player for 4 damage.
-Player HP: 12 | Goblin HP: 3
-...
-Goblin defeated! 🏆
+CSS3 for styling
+
+Vanilla JavaScript (ES6+) for logic and localStorage integration
+
+## File Structure
+``bash
+calorie-counter/
+├── index.html      # Main landing page
+├── css/
+│   └── styles.css  # App styles
+├── js/
+│   └── script.js      # Core logic
+└── README.md       # Project documentation
+
+## Contributing
+1) Fork the repo
+
+2) Create a new branch:
+git checkout -b feature/<your-branch-name>
+
+3) Commit your changes:
+git commit -m "Add awesome feature"
+
+4) Push to the branch:
+git push -u origin feature/<your-branch-name>
+
+5) Open a Pull Request

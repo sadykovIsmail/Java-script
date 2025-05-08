@@ -11,7 +11,8 @@ It was one of my early practice exercises to get more comfortable with `for` loo
 - Generates a text-based pyramid in the console
 - You can adjust the height of the pyramid easily by changing a variable
 
-Example (height = 4):
+![Screenshot of the Calorie Counter app](./screenshot.png)
+
 
 ---
 

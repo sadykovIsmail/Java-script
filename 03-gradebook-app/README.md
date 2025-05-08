@@ -18,6 +18,7 @@ A simple JavaScript-only project that mimics a basic gradebook. This project was
 - Iterating over data using loops
 - Writing clean and readable functions
 
+
 ## How to Use
 
 1. Clone the repository or download the `gradebook.js` file.

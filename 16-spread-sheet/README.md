@@ -29,7 +29,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/16-spread-sheet
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Edit Cells: Click a cell, type your data or formula (= prefix), and press Enter.
 
 Navigate: Use arrow keys, Enter, and Tab to move between cells.
@@ -44,14 +44,14 @@ Export CSV: Click Export to download the current sheet as a CSV file.
 
 Save: Your work is auto-saved in localStorage. To start fresh, click Clear Sheet.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for grid management, formula parsing, and storage
 
-File Structure
+## File Structure
 
 spreadsheet-app/
 ├── index.html           # Main HTML page with embedded toolbar
@@ -62,7 +62,7 @@ spreadsheet-app/
 │
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

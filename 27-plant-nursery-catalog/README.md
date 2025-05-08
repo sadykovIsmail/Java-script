@@ -27,7 +27,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/27-plant-nursery-catalog
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Browse the grid of plant cards on load.
 
 Use the Search input to filter by name.
@@ -47,7 +47,7 @@ CSS3 for styling and responsive design
 
 Vanilla JavaScript (ES6+) for filtering, form handling, and DOM updates
 
-File Structure
+## File Structure
 
 plant-nursery-catalog/
 ├── index.html             # Main HTML page
@@ -57,7 +57,7 @@ plant-nursery-catalog/
 │   └── script.js          # Catalog logic and UI handlers
 └── README.md              # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

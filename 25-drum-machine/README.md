@@ -27,7 +27,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/25-drum-machine
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Click any drum pad or press its corresponding keyboard key (Q, W, E, A, S, D, Z, X, C) to play a sound.
 
 Adjust the Volume slider to control the overall volume.
@@ -38,7 +38,7 @@ Click Stop to end recording and automatically begin looping your sequence.
 
 Click Clear to erase the recorded loop and start fresh.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
@@ -47,7 +47,7 @@ Vanilla JavaScript (ES6+) for audio playback, recording logic, and event handlin
 
 Web Audio API for low-latency sound playback
 
-File Structure
+## File Structure
 
 drum-machine/
 ├── index.html           # Main HTML page
@@ -57,7 +57,7 @@ drum-machine/
 │   └── script.js        # Drum pad logic, recordingplayback
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

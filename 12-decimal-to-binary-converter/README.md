@@ -26,7 +26,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/12-decimal-to-binary-converter
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 In the Decimal Number field, type a non-negative integer (e.g. 42).
 
 Click the Convert button (or press Enter).
@@ -35,14 +35,14 @@ View the Binary Result below the input.
 
 Click Clear to reset the input and output fields.
 
-Tech Stack
+## Tech Stack
 HTML5 for markup
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for conversion logic and DOM updates
 
-File Structure
+## File Structure
 
 decimal-to-binary-converter/
 ├── index.html           # Main HTML page
@@ -52,7 +52,7 @@ decimal-to-binary-converter/
 │   └── script.js           # Conversion logic and UI handlers
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:
