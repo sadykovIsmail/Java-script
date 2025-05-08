@@ -12,7 +12,8 @@ A simple web app to track your daily calorie intake. Quickly add foods and see y
 ## Demo
 
 Open `index.html` in your browser or visit the live demo:  
-<hhttps://github.com/sadykovIsmail/Java-script/tree/main/05-calorie-counter/>
+<https://sadykovismail.github.io/Java-script/05-calorie-counter/>
+
 
 ![Screenshot of the Calorie Counter app](./screenshot.png)
 
