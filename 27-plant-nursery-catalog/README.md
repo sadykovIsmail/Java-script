@@ -14,7 +14,7 @@ A web app to browse and manage a catalog of plants for your nursery. View plant 
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/27-plant-nursery-catalog/index.html/>
+<http://127.0.0.1:5500/27-plant-nursery-catalog/index.html  />
 
 ![Screenshot of the Plant Nursery Catalog app](./screenshot.png)
 
