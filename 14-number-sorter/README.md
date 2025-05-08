@@ -14,7 +14,7 @@ A web app to quickly sort a list of numbers. Enter your numbers and instantly se
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<file:///C:/Users/sadyk/OneDrive/Рабочий%20стол/Java-script/14-number-sorter/index.html/>
+<https://sadykovismail.github.io/Java-script/14-number-sorter/>
 
 ![Screenshot of the Number Sorter app](./screenshot.png)
 

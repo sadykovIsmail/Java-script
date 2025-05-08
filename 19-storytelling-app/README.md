@@ -14,7 +14,7 @@ An interactive web app for presenting choose‐your‐own‐adventure style stor
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<https://file:///C:/Users/sadyk/OneDrive/Рабочий%20стол/Java-script/19-storytelling-app/index.html>
+<https://sadykovismail.github.io/Java-script/19-storytelling-app/>
 
 ![Screenshot of the Storytelling App](./screenshot.png)
 

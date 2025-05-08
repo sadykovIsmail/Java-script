@@ -14,7 +14,7 @@ A lightweight web app to detect whether a given message is spam or not. Simply p
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<file:///C:/Users/sadyk/OneDrive/Рабочий%20стол/Java-script/13-spam-filter/index.html>
+<https://sadykovismail.github.io/Java-script/13-spam-filter/>
 
 ![Screenshot of the Spam Filter app](./screenshot.png)
 

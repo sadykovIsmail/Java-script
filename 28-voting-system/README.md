@@ -14,7 +14,7 @@ A simple web app that lets users vote on options and view live results. Perfect 
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/28-voting-system/index.html/>
+<https://sadykovismail.github.io/Java-script/28-voting-system/>
 
 ![Screenshot of the Voting System app](./screenshot.png)
 

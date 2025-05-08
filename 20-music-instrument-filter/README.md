@@ -13,7 +13,7 @@ A web app to browse and filter a list of musical instruments by category, making
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/20-music-instrument-filter/index.html>
+<https://sadykovismail.github.io/Java-script/20-music-instrument-filter>
 
 ![Screenshot of the Music Instrument Filter app](./screenshot.png)
 

@@ -15,7 +15,7 @@ A web application to save, organize, and manage your favorite links. Quickly add
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/29-bookmark-manager-app/index.html/>
+<https://sadykovismail.github.io/Java-script/29-bookmark-manager-app/>
 
 ![Screenshot of the Bookmark Manager App](./screenshot.png)
 

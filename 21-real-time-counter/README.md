@@ -11,7 +11,7 @@ A single-file web app that displays a live, automatically incrementing counter i
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/21-real-time-counter/index.html>
+<https://sadykovismail.github.io/Java-script/21-real-time-counter/>
 
 ![Screenshot of the Real Time Counter](./screenshot.png)
 

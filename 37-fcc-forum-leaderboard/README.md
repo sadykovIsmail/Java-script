@@ -16,7 +16,7 @@ A simple, responsive web forum inspired by FreeCodeCamp’s community. Create di
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/37-fcc-forum-leaderboard/index.html>
+<https://sadykovismail.github.io/Java-script/37-fcc-forum-leaderboard/>
 
 ![Screenshot of the FCC Forum app](./screenshot.png)
 

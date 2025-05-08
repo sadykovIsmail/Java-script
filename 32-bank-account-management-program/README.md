@@ -15,7 +15,7 @@ A simple web app to simulate basic banking operations: create accounts, deposit 
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/32-bank-account-management-program/index.html>
+<https://sadykovismail.github.io/Java-script/32-bank-account-management-program/>
 
 ![Screenshot of the Bank Account Management Program](./screenshot.png)
 

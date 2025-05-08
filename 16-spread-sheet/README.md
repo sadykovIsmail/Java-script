@@ -16,7 +16,7 @@ A lightweight web-based spreadsheet for basic data entry, calculations, and CSV 
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<file:///C:/Users/sadyk/OneDrive/Рабочий%20стол/Java-script/16-spread-sheet/index.html>
+<https://sadykovismail.github.io/Java-script/16-spread-sheet/>
 
 ![Screenshot of the Spreadsheet App](./screenshot.png)
 

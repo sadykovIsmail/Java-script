@@ -16,7 +16,7 @@ A web-based cash register simulator for small shops or point-of-sale demos. Ring
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/39-cash-register/index.html>
+<https://sadykovismail.github.io/Java-script/39-cash-register/>
 
 ![Screenshot of the Cash Register App](./screenshot.png)
 

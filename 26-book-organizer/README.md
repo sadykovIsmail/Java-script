@@ -15,7 +15,7 @@ A web app to help you catalog, search, and manage your personal library. Quickly
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/26-book-organizer/index.html/>
+<https://sadykovismail.github.io/Java-script/26-book-organizer/>
 
 ![Screenshot of the Book Organizer app](./screenshot.png)
 

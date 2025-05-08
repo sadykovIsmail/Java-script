@@ -14,7 +14,7 @@ An interactive web app to visualize common sorting algorithms in action. Learn h
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/35-sorting-visualizer/index.html>
+<https://sadykovismail.github.io/Java-script/35-sorting-visualizer/>
 
 ![Screenshot of the Sorting Visualizer app](./screenshot.png)
 
@@ -48,9 +48,7 @@ CSS3 for styling and responsive design
 Vanilla JavaScript (ES6+) for array generation, algorithm logic, and DOM animation
 
 File Structure
-bash
-Копировать
-Редактировать
+
 sorting-visualizer/
 ├── index.html            # Main HTML page
 ├── css/

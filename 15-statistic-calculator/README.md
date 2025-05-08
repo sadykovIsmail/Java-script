@@ -18,7 +18,7 @@ A lightweight web app to compute common statistical measures from a dataset. Ent
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<file:///C:/Users/sadyk/OneDrive/Рабочий%20стол/Java-script/15-statistic-calculator/index.html>
+<https://sadykovismail.github.io/Java-script/15-statistic-calculator/>
 
 ![Screenshot of the Statistic Calculator app](./screenshot.png)
 

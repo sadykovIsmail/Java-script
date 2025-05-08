@@ -13,7 +13,7 @@ A web app that converts Markdown text into formatted HTML in real time. Perfect 
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/22-markdown-to-html-converter/index.html/>
+<https://sadykovismail.github.io/Java-script/22-markdown-to-html-converter/>
 
 ![Screenshot of the Markdown to HTML Converter app](./screenshot.png)
 

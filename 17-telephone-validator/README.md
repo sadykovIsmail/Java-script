@@ -14,7 +14,7 @@ A simple web app to validate telephone numbers against common formatting rules. 
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<file:///C:/Users/sadyk/OneDrive/Рабочий%20стол/Java-script/17-telephone-validator/index.html/>
+<https://sadykovismail.github.io/Java-script/17-telephone-validator/>
 
 ![Screenshot of the Telephone Validator app](./screenshot.png)
 

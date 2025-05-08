@@ -14,7 +14,7 @@ A fun web app that generates random project ideas to kickstart your next coding 
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/31-project-idea/index.html/>
+<https://sadykovismail.github.io/Java-script/31-project-idea/>
 
 ![Screenshot of the Project Idea Generator app](./screenshot.png)
 

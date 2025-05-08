@@ -14,7 +14,7 @@ A web app to generate all permutations of a given string. Enter any text and ins
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/33-permute-string-app/index.html/>
+<https://sadykovismail.github.io/Java-script/33-permute-string-app/>
 
 ![Screenshot of the Permute String app](./screenshot.png)
 

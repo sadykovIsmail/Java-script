@@ -15,7 +15,7 @@ A web-based form to submit and validate customer complaints. Uses regex for clie
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/24-customer-complaint-form/index.html>
+<https://sadykovismail.github.io/Java-script/24-customer-complaint-form/>
 
 ![Screenshot of the Customer Complaint Form](./screenshot.png)
 

@@ -14,7 +14,7 @@ A responsive web app to fetch and display current weather (and optional forecast
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/38-weather-app/index.html>
+<https://sadykovismail.github.io/Java-script/38-weather-app/>
 
 ![Screenshot of the Weather App](./screenshot.png)
 
@@ -24,7 +24,7 @@ _No build tools or external dependencies required!_
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/sadykovIsmail/Java-script/tree/main/38-weather-appgit
+   git clone https://github.com/sadykovIsmail/Java-script/tree/main/38-weather-app
 Open index.html in any modern web browser.
 
 Usage

@@ -14,7 +14,7 @@ A browser-based drum machine that lets you play beats, record loops, and experim
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/25-drum-machine/index.html/>
+<https://sadykovismail.github.io/Java-script/25-drum-machine>
 
 ![Screenshot of the Drum Machine app](./screenshot.png)
 

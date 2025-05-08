@@ -14,7 +14,7 @@ A handy web app to convert ingredient measurements between different units. Perf
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/34-recipe-ingredient-converter/index.html>
+<https://sadykovismail.github.io/Java-script/34-recipe-ingredient-converter/>
 
 ![Screenshot of the Recipe Ingredient Converter app](./screenshot.png)
 

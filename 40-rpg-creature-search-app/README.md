@@ -14,7 +14,7 @@ A browser-based app to browse, filter, and generate fantasy RPG creatures. Perfe
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<hhttp://127.0.0.1:5500/40-rpg-creature-search-app/index.html>
+<https://sadykovismail.github.io/Java-script/40-rpg-creature-search-app>
 
 ![Screenshot of the RPG Creature App](./screenshot.png)
 

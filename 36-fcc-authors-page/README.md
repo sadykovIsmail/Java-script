@@ -14,7 +14,7 @@ A responsive web page showcasing FreeCodeCamp authors, their profiles, and contr
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/36-fcc-authors-page/index.html>
+<https://sadykovismail.github.io/Java-script/36-fcc-authors-page/>
 
 ![Screenshot of the FCC Authors Page](./screenshot.png)
 

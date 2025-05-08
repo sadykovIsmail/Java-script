@@ -16,7 +16,7 @@ A web app for creating and studying flashcard quizzes. Perfect for self-testing 
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<file:///C:/Users/sadyk/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/Java-script/18-flashcard-quiz/index.html>
+<https://sadykovismail.github.io/Java-script/18-flashcard-quiz/>
 
 ![Screenshot of the Flash Card Quiz app](./screenshot.png)
 

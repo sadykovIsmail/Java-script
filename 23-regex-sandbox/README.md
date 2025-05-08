@@ -16,7 +16,7 @@ An interactive web app to test and debug regular expressions. Enter a pattern an
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/23-regex-sandbox/index.html/>
+<https://sadykovismail.github.io/Java-script/23-regex-sandbox/>
 
 ![Screenshot of the Regex Sandbox app](./screenshot.png)
 

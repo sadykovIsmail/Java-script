@@ -16,7 +16,7 @@ A simple web app to browse products, add items to your cart, and manage quantiti
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<http://127.0.0.1:5500/30-shopping-cart/index.html>
+<https://sadykovismail.github.io/Java-script/30-shopping-cart/>
 
 ![Screenshot of the Shopping Cart app](./screenshot.png)
 
