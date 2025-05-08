@@ -13,7 +13,7 @@ A lightweight web app to parse and display dates in multiple formats. Enter any 
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<https://github.com/sadykovIsmail/Java-script/tree/main/09-date-formatter>
+<https://sadykovismail.github.io/Java-script/09-date-formatter>
 
 ![Screenshot of the Date Formatter app](./screenshot.png)
 
