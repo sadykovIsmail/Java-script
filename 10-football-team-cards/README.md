@@ -13,7 +13,7 @@ A responsive web app that displays information about football (soccer) teams usi
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<https://github.com/sadykovIsmail/Java-script/tree/main/10-football-team-cards>
+<https://sadykovismail.github.io/Java-script/10-football-team-cards>
 
 ![Screenshot of the Football Team Cards app](./screenshot.png)
 
