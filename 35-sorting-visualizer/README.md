@@ -28,24 +28,24 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Select your desired Sorting Algorithm from the dropdown.
+- Select your desired Sorting Algorithm from the dropdown.
 
-Use Array Size input to choose how many elements to visualize and click Generate Array.
+- Use Array Size input to choose how many elements to - visualize and click Generate Array.
+ 
+- Adjust the Speed slider to control how fast the animation runs.
 
-Adjust the Speed slider to control how fast the animation runs.
+- Click Start to begin the visualization.
+ 
+- Use Pause to halt the animation and Resume to continue.
+ 
+- After completion, you can generate a new array or switch algorithms.
 
-Click Start to begin the visualization.
-
-Use Pause to halt the animation and Resume to continue.
-
-After completion, you can generate a new array or switch algorithms.
-
-## Tech Stack
-HTML5 for layout
-
-CSS3 for styling and responsive design
-
-Vanilla JavaScript (ES6+) for array generation, algorithm logic, and DOM animation
+- ## Tech Stack
+- HTML5 for layout
+ 
+- CSS3 for styling and responsive design
+ 
+- Vanilla JavaScript (ES6+) for array generation, algorithm logic, and DOM animation
 
 ## File Structure
 

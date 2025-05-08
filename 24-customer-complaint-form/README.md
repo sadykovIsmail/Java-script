@@ -29,22 +29,22 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Fill in Name, Email, Phone Number, and Complaint Message.
+- Fill in Name, Email, Phone Number, and Complaint Message.
 
-As you type, invalid input fields will be highlighted with red borders and error text.
+- As you type, invalid input fields will be highlighted with red borders and error text.
 
-Character count updates below the Complaint Message field.
+- Character count updates below the Complaint Message field.
 
-Click Submit to see a success alert if all fields are valid.
+- Click Submit to see a success alert if all fields are valid.
 
-Click Reset to clear all fields and error messages.
+- Click Reset to clear all fields and error messages.
 
 ## Tech Stack
-HTML5 for structure
+- HTML5 for structure
 
-CSS3 for styling and responsive layout
+- CSS3 for styling and responsive layout
 
-Vanilla JavaScript (ES6+) for regex-based validation and DOM manipulation
+- Vanilla JavaScript (ES6+) for regex-based validation and DOM manipulation
 
 ## File Structure
 

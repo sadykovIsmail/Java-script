@@ -28,26 +28,26 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Browse the Creature Cards grid on load.
-
-Use the Search input to filter creatures by name.
-
-Use the Type dropdown to narrow results by creature type.
-
-Click Generate Random to create a new creature with random stats.
-
-Click any card to flip it and read detailed lore, abilities, or weaknesses.
-
-To remove a creature, click the 🗑️ icon on its card.
-
-Your additions and edits are auto-saved; refresh to continue where you left off.
+- Browse the Creature Cards grid on load.
+ 
+- Use the Search input to filter creatures by name.
+ 
+- Use the Type dropdown to narrow results by creature type.
+ 
+- Click Generate Random to create a new creature with random - stats.
+ 
+- Click any card to flip it and read detailed lore, - abilities, or weaknesses.
+ 
+- To remove a creature, click the 🗑️ icon on its card.
+ 
+- Your additions and edits are auto-saved; refresh to continue where you left off.
 
 ## Tech Stack
-HTML5 for semantic markup
+- HTML5 for semantic markup
 
-CSS3 (Flexbox & Grid) for styling and responsive design
-
-Vanilla JavaScript (ES6+) for data handling, filtering, random generation, and localStorage integration
+- CSS3 (Flexbox & Grid) for styling and responsive design
+ 
+- Vanilla JavaScript (ES6+) for data handling, filtering, random generation, and localStorage integration
 
 ## File Structure
 

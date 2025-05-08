@@ -30,19 +30,19 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Add Cards: Enter a question in the Front field and the answer in the Back field, then click Add Card.
+- Add Cards: Enter a question in the Front field and the answer in the Back field, then click Add Card.
 
-Start Quiz: Click Quiz Mode to begin reviewing cards.
+- Start Quiz: Click Quiz Mode to begin reviewing cards.
 
-Answer: Think of your answer, then click Show Answer to reveal.
+- Answer: Think of your answer, then click Show Answer to reveal.
 
-Score: Click Correct or Incorrect to record your response.
+- Score: Click Correct or Incorrect to record your response.
 
-Review: Navigate between cards using Next and Previous.
+- Review: Navigate between cards using Next and Previous.
 
-Categories: Use the dropdown to filter cards by category.
+- Categories: Use the dropdown to filter cards by category.
 
-Reset: Click Clear All Cards or Reset Scores to start over.
+- Reset: Click Clear All Cards or Reset Scores to start over.
 
 ## Tech Stack
 HTML5 for structure

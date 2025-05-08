@@ -30,28 +30,28 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-On load, you’ll see a Thread List showing all existing discussions.
-
-Click New Thread to open the thread creation form:
-
-Enter a Title and Content, then click Create.
-
-Click any thread title to view its Detail View and all replies.
-
-In a thread, type your message in the Reply box and click Post Reply.
-
-Use the Search input at the top to filter threads by keyword.
-
-Hover over your own posts or threads to reveal Edit (✏️) and Delete (🗑️) buttons.
-
-All changes are auto-saved in your browser—no server needed.
+ - On load, you’ll see a Thread List showing all existing discussions.
+ 
+ - Click New Thread to open the thread creation form:
+  
+ - Enter a Title and Content, then click Create.
+ 
+ - Click any thread title to view its Detail View and all replies.
+ 
+ - In a thread, type your message in the Reply box and click  - Post Reply.
+  
+ - Use the Search input at the top to filter threads by  - keyword.
+  
+ - Hover over your own posts or threads to reveal Edit (✏️)  - and Delete (🗑️) buttons.
+  
+ - All changes are auto-saved in your browser—no server needed.
 
 ## Tech Stack
-HTML5 for semantic markup
+- HTML5 for semantic markup
 
-CSS3 (Flexbox & Grid) for styling and responsive layout
+- CSS3 (Flexbox & Grid) for styling and responsive layout
 
-Vanilla JavaScript (ES6+) for forum logic, event handling, and localStorage integration
+- Vanilla JavaScript (ES6+) for forum logic, event handling, and localStorage integration
 
 ## File Structure
 

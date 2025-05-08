@@ -28,24 +28,24 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Click the New Idea button to generate a project suggestion.
+- Click the New Idea button to generate a project suggestion.
 
-Use the Category dropdown to limit ideas to a specific domain.
-
-Click Copy to copy the suggestion to your clipboard.
-
-Click the ⭐ icon to add the idea to your Favorites list.
-
-View your favorites in the sidebar and click Reset Favorites to clear.
+- Use the Category dropdown to limit ideas to a specific - domain.
+ 
+- Click Copy to copy the suggestion to your clipboard.
+ 
+- Click the ⭐ icon to add the idea to your Favorites list.
+ 
+- View your favorites in the sidebar and click Reset Favorites to clear.
 
 ## Tech Stack
-HTML5 for markup
+- HTML5 for markup
 
-CSS3 for styling and responsive layout
-
-Vanilla JavaScript (ES6+) for idea generation logic, filtering, and storage
-
-localStorage for persisting favorite ideas
+- CSS3 for styling and responsive layout
+ 
+- Vanilla JavaScript (ES6+) for idea generation logic, - filtering, and storage
+ 
+- localStorage for persisting favorite ideas
 
 ## File Structure
 

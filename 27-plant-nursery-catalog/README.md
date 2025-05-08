@@ -28,24 +28,24 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Browse the grid of plant cards on load.
+- Browse the grid of plant cards on load.
 
-Use the Search input to filter by name.
+- Use the Search input to filter by name.
 
-Select a Category from the dropdown to narrow results.
+- Select a Category from the dropdown to narrow results.
 
-Click a plant card to view its full details.
+- Click a plant card to view its full details.
 
-To add a new plant, click Add Plant, fill in the form, and submit.
+- To add a new plant, click Add Plant, fill in the form, and submit.
 
-Refresh to reset search and filters.
+- Refresh to reset search and filters.
 
-Tech Stack
-HTML5 for markup
+## Tech Stack
+- HTML5 for markup
 
-CSS3 for styling and responsive design
+- CSS3 for styling and responsive design
 
-Vanilla JavaScript (ES6+) for filtering, form handling, and DOM updates
+- Vanilla JavaScript (ES6+) for filtering, form handling, and DOM updates
 
 ## File Structure
 

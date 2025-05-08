@@ -28,22 +28,22 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-In the Input String field, type or paste your text (e.g. abc).
+- In the Input String field, type or paste your text (e.g.  abc).
 
-Click the Permute button (or press Enter).
-
-See the list of all unique permutations appear below.
-
-Click Copy All to copy every permutation to your clipboard.
-
-Click Clear to reset the input and remove results.
+- Click the Permute button (or press Enter).
+ 
+- See the list of all unique permutations appear below.
+ 
+- Click Copy All to copy every permutation to your clipboard.
+ 
+- Click Clear to reset the input and remove results.
 
 ## Tech Stack
-HTML5 for structure
+- HTML5 for structure
 
-CSS3 for styling and responsive layout
-
-Vanilla JavaScript (ES6+) for permutation algorithm and DOM updates
+- CSS3 for styling and responsive layout
+ 
+- Vanilla JavaScript (ES6+) for permutation algorithm and DOM updates
 
 ## File Structure
 

@@ -27,22 +27,22 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-In the Markdown Input area, type or paste your Markdown text.
+- In the Markdown Input area, type or paste your Markdown text.
 
-As you type, the HTML Preview area on the right updates automatically.
+- As you type, the HTML Preview area on the right updates automatically.
 
-Click Copy HTML to copy the rendered HTML to your clipboard.
+- Click Copy HTML to copy the rendered HTML to your clipboard.
 
-Click Clear to reset both the input and preview fields.
+- Click Clear to reset both the input and preview fields.
 
 ## Tech Stack
-HTML5 for structure
+- HTML5 for structure
 
-CSS3 for styling and responsive layout
+- CSS3 for styling and responsive layout
 
-Vanilla JavaScript (ES6+) for parsing Markdown and updating the DOM
+- Vanilla JavaScript (ES6+) for parsing Markdown and updating the DOM
 
-marked.js (optional) for robust Markdown parsing
+- marked.js (optional) for robust Markdown parsing
 
 ## File Structure
 

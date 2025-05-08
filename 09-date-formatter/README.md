@@ -27,15 +27,15 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-In the Date Input field, type or paste your date.
+- In the Date Input field, type or paste your date.
 
-Select one of the Preset Formats from the dropdown (or leave on default).
+- Select one of the Preset Formats from the dropdown (or leave on default).
 
-View the formatted output in the Results area.
+- View the formatted output in the Results area.
 
-Click Clear to reset the form.
+- Click Clear to reset the form.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive design

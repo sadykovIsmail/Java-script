@@ -36,11 +36,11 @@ See the result message and updated score.
 To start over, click Reset.
 
 ## Tech Stack
-HTML5 for markup
+- HTML5 for markup
 
-CSS3 for styling and responsive layout
+- CSS3 for styling and responsive layout
 
-Vanilla JavaScript (ES6+) for game logic and DOM manipulation
+- Vanilla JavaScript (ES6+) for game logic and DOM manipulation
 
 ## File Structure
 ``bash

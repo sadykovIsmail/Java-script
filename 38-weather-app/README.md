@@ -28,24 +28,24 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-In the City input field, type the city name (e.g. London or New York).
+- In the City input field, type the city name (e.g. London or New York).
 
-Click Get Weather or press Enter.
-
-View the Current Weather section for temperature, description, humidity, and wind.
-
-Scroll to the Forecast section to see the next 5 days’ temps and icons.
-
-If an error occurs, an alert or error panel will appear—try a different city or check your connection.
-
-## Tech Stack
-HTML5 for markup
-
-CSS3 for styling and responsive layout
-
-Vanilla JavaScript (ES6+) for Fetch API calls and DOM updates
-
-FreeCodeCamp Weather Proxy (https://weather-proxy.freecodecamp.rocks/api/city/) for data
+- Click Get Weather or press Enter.
+ 
+- View the Current Weather section for temperature, - description, humidity, and wind.
+ 
+- Scroll to the Forecast section to see the next 5 days’ - temps and icons.
+ 
+- If an error occurs, an alert or error panel will appear—try - a different city or check your connection.
+ 
+ ## Tech Stack
+- HTML5 for markup
+ 
+- CSS3 for styling and responsive layout
+ 
+- Vanilla JavaScript (ES6+) for Fetch API calls and DOM - updates
+ 
+- FreeCodeCamp Weather Proxy (https://weather-proxy.freecodecamp.rocks/api/city/) for data
 
 ## File Structure
 

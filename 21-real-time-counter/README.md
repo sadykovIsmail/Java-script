@@ -25,18 +25,18 @@ _No build or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-On load, the counter starts at 0 and increments every second.
+- On load, the counter starts at 0 and increments every second.
 
-Click the Reset button at any time to set the counter back to 0.
+- Click the Reset button at any time to set the counter back to 0.
 
-To restart counting from zero on page reload, simply refresh the page.
+- To restart counting from zero on page reload, simply refresh the page.
 
 ## Tech Stack
-HTML5 for structure
+- HTML5 for structure
 
-CSS3 (inline) for basic styling
+- CSS3 (inline) for basic styling
 
-Vanilla JavaScript (inline in index.html) using setInterval for real-time updates
+- Vanilla JavaScript (inline in index.html) using setInterval for real-time updates
 
 ## File Structure
 

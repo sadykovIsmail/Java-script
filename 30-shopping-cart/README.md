@@ -30,19 +30,19 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Browse the Product Listing on load.
+- Browse the Product Listing on load.
 
-Click Add to Cart on any product you wish to purchase.
+- Click Add to Cart on any product you wish to purchase.
 
-Click the Cart icon/button to view your selected items.
+- Click the Cart icon/button to view your selected items.
 
-In the cart, use the + and – buttons to adjust quantities.
+- In the cart, use the + and – buttons to adjust quantities.
 
-Click the 🗑️ icon to remove an item entirely.
+- Click the 🗑️ icon to remove an item entirely.
 
-View the Total at the bottom.
+- View the Total at the bottom.
 
-Refresh or revisit the page to see your cart preserved.
+- Refresh or revisit the page to see your cart preserved.
 
 ## Tech Stack
 HTML5 for structure

@@ -30,34 +30,34 @@ _No dependencies or build tools required!_
 Open index.html in any modern web browser.
 
 ## Usage
-In the Add Item form, enter:
+- In the Add Item form, enter:
+ 
+- Name of the product
+ 
+- Price per unit (e.g. 4.99)
+ 
+- Quantity (e.g. 2)
+ 
+- Click Add to append the line item to the list.
+ 
+- Adjust quantities directly in the list or click the 🗑️ - icon to remove an item.
+ 
+- The Subtotal and Tax (default 8.25%) update automatically.
+ 
+- View the Total Due at the bottom.
+ 
+- In the Payment field, type the amount received and click  Process Payment.
+ 
+- See the Change Due displayed immediately.
 
-Name of the product
-
-Price per unit (e.g. 4.99)
-
-Quantity (e.g. 2)
-
-Click Add to append the line item to the list.
-
-Adjust quantities directly in the list or click the 🗑️ icon to remove an item.
-
-The Subtotal and Tax (default 8.25%) update automatically.
-
-View the Total Due at the bottom.
-
-In the Payment field, type the amount received and click Process Payment.
-
-See the Change Due displayed immediately.
-
-Click Clear Register to reset everything for the next customer.
+- Click Clear Register to reset everything for the next customer.
 
 ## Tech Stack
-HTML5 for structure
+- HTML5 for structure
 
-CSS3 for styling and responsive layout
-
-Vanilla JavaScript (ES6+) for register logic, tax calculations, and DOM manipulation
+- CSS3 for styling and responsive layout
+ 
+- Vanilla JavaScript (ES6+) for register logic, tax calculations, and DOM manipulation
 
 ## File Structure
 

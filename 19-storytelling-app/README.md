@@ -28,15 +28,15 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-On page load, the first slide of the story appears.
+- On page load, the first slide of the story appears.
 
-Read the story text and view any accompanying images.
+- Read the story text and view any accompanying images.
 
-Click a choice button to follow a narrative branch, or use Next/Back if available.
+- Click a choice button to follow a narrative branch, or use Next/Back if available.
 
-Your current position is auto‐saved; refresh or revisit later to continue.
+- Your current position is auto‐saved; refresh or revisit later to continue.
 
-To restart, click Restart Story or clear browser storage.
+- To restart, click Restart Story or clear browser storage.
 
 ## Tech Stack
 HTML5 for structure

@@ -30,17 +30,17 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-In the Pattern field, type your regex (e.g. \b\w+\b).
+- In the Pattern field, type your regex (e.g. \b\w+\b).
 
-Check or uncheck the Flags you want (e.g. g for global).
+- Check or uncheck the Flags you want (e.g. g for global).
 
-In the Test String area, enter the text you want to search.
+- In the Test String area, enter the text you want to search.
 
-Matches will be highlighted instantly in the test text.
+- Matches will be highlighted instantly in the test text.
 
-Scroll down to see a list of all matches and any capture groups.
+- Scroll down to see a list of all matches and any capture groups.
 
-Click Clear Pattern or Clear Text to reset fields.
+- Click Clear Pattern or Clear Text to reset fields.
 
 ## Tech Stack
 HTML5 for structure

@@ -28,22 +28,22 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Paste your message into the Message textarea.
+1) Paste your message into the Message textarea.
 
-Click the Analyze button (or press Enter).
+2) Click the Analyze button (or press Enter).
 
-View the classification result and spam score below.
+3) View the classification result and spam score below.
 
-See common spam keywords highlighted in your text.
+4) See common spam keywords highlighted in your text.
 
-Click Clear to reset the form and results.
+5) Click Clear to reset the form and results.
 
 ## Tech Stack
-HTML5 for markup
+- HTML5 for markup
 
-CSS3 for styling and responsive design
+- CSS3 for styling and responsive design
 
-Vanilla JavaScript (ES6+) for classification logic and DOM updates
+- Vanilla JavaScript (ES6+) for classification logic and DOM updates
 
 ## File Structure
 

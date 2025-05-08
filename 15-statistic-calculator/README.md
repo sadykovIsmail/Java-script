@@ -32,32 +32,32 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-In the Data Input field, type your numbers (e.g. 4, 8, 15, 16, 23, 42).
+- In the Data Input field, type your numbers (e.g. 4, 8, 15, 16, 23, 42).
 
-Click Calculate (or press Enter).
+- Click Calculate (or press Enter).
 
-View each statistic in the Results section:
+- View each statistic in the Results section:
 
-Mean
+- Mean
 
-Median
+- Median
 
-Mode
+- Mode
 
-Range
+- Range
 
-Variance
+- Variance
 
-Standard Deviation
+- Standard Deviation
 
-Click Clear to reset the form and results.
+- Click Clear to reset the form and results.
 
 ## Tech Stack
-HTML5 for markup
+- HTML5 for markup
 
-CSS3 for styling and responsive layout
+- CSS3 for styling and responsive layout
 
-Vanilla JavaScript (ES6+) for calculation logic and DOM manipulation
+- Vanilla JavaScript (ES6+) for calculation logic and DOM manipulation
 
 ## File Structure
 

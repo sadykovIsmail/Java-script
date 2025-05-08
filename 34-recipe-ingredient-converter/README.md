@@ -28,22 +28,22 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-In the Amount field, type the numeric quantity (e.g. 1.5).
+- In the Amount field, type the numeric quantity (e.g. 1.5).
 
-Select the From unit and To unit from the dropdowns.
+- Select the From unit and To unit from the dropdowns.
+ 
+- Choose your Ingredient if converting between weight and - volume.
+ 
+- View the converted value instantly below.
+ 
+- Click Clear to reset all fields.
+ 
+## Tech Stack
+- HTML5 for markup
+ 
+- CSS3 for styling and responsive layout
 
-Choose your Ingredient if converting between weight and volume.
-
-View the converted value instantly below.
-
-Click Clear to reset all fields.
-
-Tech Stack
-HTML5 for markup
-
-CSS3 for styling and responsive layout
-
-Vanilla JavaScript (ES6+) for conversion logic, including density lookup and unit math
+- Vanilla JavaScript (ES6+) for conversion logic, including density lookup and unit math
 
 ## File Structure
 

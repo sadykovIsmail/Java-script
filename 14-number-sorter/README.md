@@ -28,20 +28,20 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Enter your list of numbers in the Number List field (e.g. 5, 2, 9, 1, 7).
+1) Enter your list of numbers in the Number List field (e.g. 5, 2, 9, 1, 7).
 
-Click Sort Ascending or Sort Descending.
+2) Click Sort Ascending or Sort Descending.
 
-View the sorted result in the Output area.
+3) View the sorted result in the Output area.
 
-Click Clear to reset the fields.
+4) Click Clear to reset the fields.
 
 ## Tech Stack
-HTML5 for structure
+- HTML5 for structure
 
-CSS3 for styling and responsive layout
+- CSS3 for styling and responsive layout
 
-Vanilla JavaScript (ES6+) for parsing, sorting logic, and DOM updates
+- Vanilla JavaScript (ES6+) for parsing, sorting logic, and DOM updates
 
 ## File Structure
 number-sorter/

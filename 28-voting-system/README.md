@@ -28,28 +28,28 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Admin Mode:
+- Admin Mode:
 
-Click Add Option, enter option text, and click Save to create voting choices.
+- Click Add Option, enter option text, and click Save to create voting choices.
 
-Click Reset Poll to clear all current votes.
+- Click Reset Poll to clear all current votes.
 
-Voting Mode:
+- Voting Mode:
 
-Click any option button to cast your vote.
+- Click any option button to cast your vote.
 
-Once voted, you cannot vote again (per browser).
+- Once voted, you cannot vote again (per browser).
 
-See the live vote counts next to each option.
+- See the live vote counts next to each option.
 
-To start fresh or change options, reset the poll and add new choices.
+- To start fresh or change options, reset the poll and add new choices.
 
 ## Tech Stack
-HTML5 for structure
+- HTML5 for structure
 
-CSS3 for styling and responsive layout
+- CSS3 for styling and responsive layout
 
-Vanilla JavaScript (ES6+) for vote logic, UI updates, and localStorage management
+- Vanilla JavaScript (ES6+) for vote logic, UI updates, and localStorage management
 
 ## File Structure
 

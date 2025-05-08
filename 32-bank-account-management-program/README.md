@@ -29,32 +29,32 @@ _No dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Create Account:
+- Create Account:
+ 
+- Fill in Name and Initial Deposit, then click Create Account.
+ 
+- Deposit:
+ 
+- Select an account from the dropdown, enter an amount, and  click Deposit.
+ 
+- Withdraw:
 
-Fill in Name and Initial Deposit, then click Create Account.
-
-Deposit:
-
-Select an account from the dropdown, enter an amount, and click Deposit.
-
-Withdraw:
-
-Select an account, enter an amount, and click Withdraw.
-
-If withdrawal exceeds balance, an error message appears.
-
-View Balances & History:
-
-Balances update in real time.
-
-Click Show History next to each account to view its transactions.
+- Select an account, enter an amount, and click Withdraw.
+ 
+- If withdrawal exceeds balance, an error message appears.
+ 
+- View Balances & History:
+ 
+- Balances update in real time.
+ 
+- Click Show History next to each account to view its transactions.
 
 ## Tech Stack
-HTML5 for structure
-
-CSS3 for styling
-
-Vanilla JavaScript (ES6+) for logic and localStorage integration
+- HTML5 for structure
+ 
+- CSS3 for styling
+ 
+- Vanilla JavaScript (ES6+) for logic and localStorage integration
 
 ## File Structure
 

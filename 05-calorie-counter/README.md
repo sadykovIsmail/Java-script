@@ -27,24 +27,24 @@ _No dependencies required!_
 Open index.html in any modern browser.
 
 ## Usage
-In the Food field, type the name of your meal or snack.
+1) In the Food field, type the name of your meal or snack.
 
-In the Calories field, enter the energy value (number only).
+2) In the Calories field, enter the energy value (number only).
 
-Click Add.
+3) Click Add.
 
-To edit an entry, click the pencil icon next to it.
+4) To edit an entry, click the pencil icon next to it.
 
-To remove an entry, click the trash icon.
+5) To remove an entry, click the trash icon.
 
-Your total calories for the day will always appear at the bottom.
+6) Your total calories for the day will always appear at the bottom.
 
 ## Tech Stack
-HTML5 for structure
+- HTML5 for structure
 
-CSS3 for styling
+- CSS3 for styling
 
-Vanilla JavaScript (ES6+) for logic and localStorage integration
+- Vanilla JavaScript (ES6+) for logic and localStorage integration
 
 ## File Structure
 ``bash

@@ -27,21 +27,21 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/Java-script/tree/main/36-fcc-authors-page
 Open index.html in any modern web browser.
 
-## Usage
-On load, the page fetches author data and displays cards in a grid.
+ ## Usage
+- On load, the page fetches author data and displays cards in - a grid.
 
-Use the Search input at the top to filter authors by name or username.
+- Use the Search input at the top to filter authors by name or username.
 
-Click an author’s card or “View Profile” button to open their FreeCodeCamp profile in a new tab.
-
-If data fails to load, an error message will appear—refresh to retry.
+- Click an author’s card or “View Profile” button to open - their FreeCodeCamp profile in a new tab.
+ 
+- If data fails to load, an error message will appear—refresh to retry.
 
 ## Tech Stack
-HTML5 for markup
+- HTML5 for markup
 
-CSS3 (Flexbox & Grid) for styling and responsive layout
+- CSS3 (Flexbox & Grid) for styling and responsive layout
 
-Vanilla JavaScript (ES6+) for API fetching, search/filter logic, and DOM manipulation
+- Vanilla JavaScript (ES6+) for API fetching, search/filter logic, and DOM manipulation
 
 Fetch API for network requests
 

@@ -25,20 +25,20 @@ _No build or external dependencies required!_
 Open index.html in any modern browser.
 
 ## Usage
-Type or paste your text into the input field.
+- Type or paste your text into the input field.
 
-Click the Check button.
+- Click the Check button.
 
-View the result message (“✅ It’s a palindrome!” or “❌ Not a palindrome.”).
+- View the result message (“✅ It’s a palindrome!” or “❌ Not a palindrome.”).
 
-To try another text, simply edit the input and click Check again.
+- To try another text, simply edit the input and click Check again.
 
-Tech Stack
+- Tech Stack
 HTML5 with inline CSS for styling
 
-Vanilla JavaScript embedded in index.html for palindrome logic
+- Vanilla JavaScript embedded in index.html for palindrome logic
 
-File Structure
+## File Structure
 palindrome-checker/
 └── index.html    # All markup, styling, and script in one file
 

@@ -28,13 +28,13 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-In the Phone Number field, enter the number you want to validate.
+- In the Phone Number field, enter the number you want to validate.
 
-Click the Validate button (or press Enter).
+- Click the Validate button (or press Enter).
 
-See the validation result (“✅ Valid” or “❌ Invalid”) and any error details.
+- See the validation result (“✅ Valid” or “❌ Invalid”) and any error details.
 
-Click Clear to reset the input and result.
+- Click Clear to reset the input and result.
 
 ## Tech Stack
 HTML5 for structure

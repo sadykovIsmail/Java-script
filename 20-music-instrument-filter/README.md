@@ -27,22 +27,22 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Use the Search input at the top to type any part of an instrument’s name.
+- Use the Search input at the top to type any part of an instrument’s name.
 
-Select one or more Category checkboxes to narrow results.
+- Select one or more Category checkboxes to narrow results.
 
-Instrument cards update instantly to match your criteria.
+- Instrument cards update instantly to match your criteria.
 
-Click on a card to view more details (if implemented).
+- Click on a card to view more details (if implemented).
 
-To clear filters, empty the search field and uncheck all categories.
+- To clear filters, empty the search field and uncheck all categories.
 
 ## Tech Stack
-HTML5 for markup
+- HTML5 for markup
 
-CSS3 (Flexbox & Grid) for styling and layout
+- CSS3 (Flexbox & Grid) for styling and layout
 
-Vanilla JavaScript (ES6+) for filtering logic and DOM updates
+- Vanilla JavaScript (ES6+) for filtering logic and DOM updates
 
 ## File Structure
 

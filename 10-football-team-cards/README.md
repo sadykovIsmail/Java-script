@@ -38,11 +38,11 @@ Click any card to flip it and view more details.
 Refresh the page to reset filters and sorting.
 
 ## Tech Stack
-HTML5 for markup
+- HTML5 for markup
 
-CSS3 (Flexbox & Grid) for styling and layout
+- CSS3 (Flexbox & Grid) for styling and layout
 
-Vanilla JavaScript (ES6+) for card rendering, search, sort, and flip interactions
+- Vanilla JavaScript (ES6+) for card rendering, search, sort, and flip interactions
 
 ## File Structure
 

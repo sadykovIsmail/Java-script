@@ -30,22 +30,22 @@ Open index.html in any modern web browser.
 ## Usage
 Click any drum pad or press its corresponding keyboard key (Q, W, E, A, S, D, Z, X, C) to play a sound.
 
-Adjust the Volume slider to control the overall volume.
+- Adjust the Volume slider to control the overall volume.
 
-Click Record to start capturing your pad hits.
+- Click Record to start capturing your pad hits.
 
-Click Stop to end recording and automatically begin looping your sequence.
+- Click Stop to end recording and automatically begin looping your sequence.
 
-Click Clear to erase the recorded loop and start fresh.
+- Click Clear to erase the recorded loop and start fresh.
 
 ## Tech Stack
-HTML5 for structure
+- HTML5 for structure
 
-CSS3 for styling and responsive layout
+- CSS3 for styling and responsive layout
 
-Vanilla JavaScript (ES6+) for audio playback, recording logic, and event handling
+- Vanilla JavaScript (ES6+) for audio playback, recording logic, and event handling
 
-Web Audio API for low-latency sound playback
+- Web Audio API for low-latency sound playback
 
 ## File Structure
 

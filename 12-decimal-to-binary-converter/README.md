@@ -27,20 +27,20 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-In the Decimal Number field, type a non-negative integer (e.g. 42).
+1) In the Decimal Number field, type a non-negative integer (e.g. 42).
 
-Click the Convert button (or press Enter).
+2) Click the Convert button (or press Enter).
 
-View the Binary Result below the input.
+3) View the Binary Result below the input.
 
-Click Clear to reset the input and output fields.
+4) Click Clear to reset the input and output fields.
 
 ## Tech Stack
-HTML5 for markup
+- HTML5 for markup
 
-CSS3 for styling and responsive layout
+- CSS3 for styling and responsive layout
 
-Vanilla JavaScript (ES6+) for conversion logic and DOM updates
+- Vanilla JavaScript (ES6+) for conversion logic and DOM updates
 
 ## File Structure
 

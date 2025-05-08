@@ -29,17 +29,17 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Fill out the Add Bookmark form with the URL, Title, and Tags (comma-separated).
+- Fill out the Add Bookmark form with the URL, Title, and Tags (comma-separated).
 
-Click Add to save the bookmark.
+- Click Add to save the bookmark.
 
-Use the Search input to filter bookmarks by title or tags.
+- Use the Search input to filter bookmarks by title or tags.
 
-Click the ✏️ icon next to a bookmark to edit its details, then save.
+- Click the ✏️ icon next to a bookmark to edit its details, then save.
 
-Click the 🗑️ icon to delete a bookmark.
+- Click the 🗑️ icon to delete a bookmark.
 
-Click any bookmark title to open it in a new tab.
+- Click any bookmark title to open it in a new tab.
 
 ## Tech Stack
 HTML5 for structure

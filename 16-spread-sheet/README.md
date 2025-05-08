@@ -30,26 +30,26 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Edit Cells: Click a cell, type your data or formula (= prefix), and press Enter.
+- Edit Cells: Click a cell, type your data or formula (= prefix), and press Enter.
 
-Navigate: Use arrow keys, Enter, and Tab to move between cells.
+- Navigate: Use arrow keys, Enter, and Tab to move between cells.
 
-Add/Remove: Click the “+” or “–” icons in the row/column headers to insert or delete.
+- Add/Remove: Click the “+” or “–” icons in the row/column headers to insert or delete.
 
-Format: Select one or more cells and click the Bold, Italic, or Fill Color buttons.
+- Format: Select one or more cells and click the Bold, Italic, or Fill Color buttons.
 
-Import CSV: Click Import, choose a .csv file, and your data will populate the sheet.
+- Import CSV: Click Import, choose a .csv file, and your data will populate the sheet.
 
-Export CSV: Click Export to download the current sheet as a CSV file.
+- Export CSV: Click Export to download the current sheet as a CSV file.
 
-Save: Your work is auto-saved in localStorage. To start fresh, click Clear Sheet.
+- Save: Your work is auto-saved in localStorage. To start fresh, click Clear Sheet.
 
 ## Tech Stack
-HTML5 for structure
+- HTML5 for structure
 
-CSS3 for styling and responsive layout
+- CSS3 for styling and responsive layout
 
-Vanilla JavaScript (ES6+) for grid management, formula parsing, and storage
+- Vanilla JavaScript (ES6+) for grid management, formula parsing, and storage
 
 ## File Structure
 

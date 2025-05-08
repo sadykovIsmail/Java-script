@@ -28,24 +28,24 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Type your task into the New Task input field.
+- Type your task into the New Task input field.
 
-Click Add (or press Enter) to add it to your list.
+- Click Add (or press Enter) to add it to your list.
 
-Toggle the checkbox to mark tasks as complete or incomplete.
+- Toggle the checkbox to mark tasks as complete or incomplete.
 
-Click the ✏️ icon to edit a task, then save.
+- Click the ✏️ icon to edit a task, then save.
 
-Click the 🗑️ icon to delete a task.
+- Click the 🗑️ icon to delete a task.
 
-Use Clear All to remove every task at once.
+- Use Clear All to remove every task at once.
 
 ## Tech Stack
-HTML5 for structure
+- HTML5 for structure
 
-CSS3 for styling and responsive design
+- CSS3 for styling and responsive design
 
-Vanilla JavaScript (ES6+) for task management and localStorage integration
+V- anilla JavaScript (ES6+) for task management and localStorage integration
 
 ## File Structure
 

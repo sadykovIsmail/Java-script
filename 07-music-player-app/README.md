@@ -29,17 +29,17 @@ _No build tools or dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Click on a song title in the Track List to load it.
+- Click on a song title in the Track List to load it.
 
-Use the Play/Pause button to start or stop playback.
+- Use the Play/Pause button to start or stop playback.
 
-Click Next or Previous to navigate between tracks.
+- Click Next or Previous to navigate between tracks.
 
-Drag the Progress Bar to seek within the song.
+- Drag the Progress Bar to seek within the song.
 
-Adjust Volume with the slider.
+- Adjust Volume with the slider.
 
-To reset playback, refresh the page or select a different track.
+- To reset playback, refresh the page or select a different track.
 
 ## Tech Stack
 HTML5 for structure

@@ -29,26 +29,26 @@ _No build tools or external dependencies required!_
 Open index.html in any modern web browser.
 
 ## Usage
-Fill out the Add Book form with the book’s Title, Author, Genre, and Year.
+- Fill out the Add Book form with the book’s Title, Author, Genre, and Year.
 
-Click Add to save the book to your collection.
+- Click Add to save the book to your collection.
 
-Use the Search bar to find books by Title or Author.
+- Use the Search bar to find books by Title or Author.
 
-Use the Genre dropdown and Read/Unread checkbox to filter your view.
+- Use the Genre dropdown and Read/Unread checkbox to filter your view.
 
-Click the ✏️ icon next to a book to edit its details.
+- Click the ✏️ icon next to a book to edit its details.
 
-Click the 🗑️ icon to remove a book.
+- Click the 🗑️ icon to remove a book.
 
-Toggle the Read checkbox on each entry to mark it as read or unread.
+- Toggle the Read checkbox on each entry to mark it as read or unread.
 
 ## Tech Stack
-HTML5 for structure
+- HTML5 for structure
 
-CSS3 for styling and responsive layout
+- CSS3 for styling and responsive layout
 
-Vanilla JavaScript (ES6+) for application logic and localStorage integration
+- Vanilla JavaScript (ES6+) for application logic and localStorage integration
 
 ## File Structure
 
